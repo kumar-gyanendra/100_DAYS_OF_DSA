@@ -16,14 +16,15 @@ The goal of this challenge is to strengthen **DSA fundamentals**, improve **prob
 ## 🗂 Repository Structure
 ```
 100-DAYS-OF-DSA/
-├── Day01/
-│ ├── Arrays_Basics.c
-│ └── Practice.c
-├── Day02/
-│ ├── Searching.c
-│ └── Problems.c
-...
-└── Day100/
+ ├── Day01/
+ │     ├── Question_01.c
+ │     └── Question_02.c
+ ├── Day02/
+ │     ├── Question_01.c
+ │     └── Question_02.c
+ ...
+ └── Day100/
+
 ```
 
 ---
