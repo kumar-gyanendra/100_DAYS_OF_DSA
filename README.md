@@ -76,7 +76,7 @@ The goal of this challenge is to strengthen **DSA fundamentals**, improve **prob
 ---
 
 ## 📬 Contact
-If you would like to view more of my work or connect:-
+If you would like to view more of my work or connect:
 
 - **GitHub:** https://github.com/kumar-gyanendra  
 - **LinkedIn:** https://www.linkedin.com/in/krgyanendra213  
