@@ -67,6 +67,31 @@ The goal of this challenge is to strengthen **DSA fundamentals**, improve **prob
 
 ---
 
+## ⚠️ LeetCode-Specific Solutions
+
+Some solutions are written **exclusively for the LeetCode platform**.
+
+- Follow LeetCode’s **required function signature**
+- Do **not include `main()`**
+- No `scanf` / `printf`
+- Input and output are handled by LeetCode internally
+
+### Example
+```
+int* twoSum(int* nums, int numsSize, int target, int* returnSize);
+```
+
+### 🛠️ How to Use
+1. Copy the solution code from this repository  
+2. Open the problem on **LeetCode**  
+3. Select **Language: C**  
+4. Paste the code into the editor  
+5. Click **Run** or **Submit**
+
+> ⚠️ For local execution, use solutions that include a `main()` function and standard input/output handling.
+
+---
+
 ## 🎯 Why This Project Matters
 - Shows long-term **commitment and discipline**  
 - Demonstrates strong **core DSA foundations**  
