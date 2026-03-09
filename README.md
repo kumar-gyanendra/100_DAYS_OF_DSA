@@ -6,7 +6,7 @@ The goal of this challenge is to strengthen **DSA fundamentals**, improve **prob
 ---
 
 ## 📌 Overview
-- **Language:** C  .
+- **Language:** C  
 - **Duration:** 100 Days  
 - **Problems Solved:** Ongoing  
 - **Focus Areas:** DSA fundamentals, logic building, optimization, clean coding  
