@@ -102,7 +102,7 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize);
 ---
 
 ## 📬 Contact
-If you would like to view more of my work or connect:
+If you would like to view more of my work or connect:-
 
 - **GitHub:** https://github.com/kumar-gyanendra  
 - **LinkedIn:** https://www.linkedin.com/in/krgyanendra213  
